@@ -4,6 +4,8 @@
 
 Click here to start docker container at [mybinder](https://mybinder.org/v2/gh/jfmoran2/CS410_Public_Project/master)
 
+For browsing (rather than the interactive notebook in mybinder) the main notebook is holybooks.ipynb, and the PDF equivalent is holybooks.pdf
+
 ### Authors
 
 Graham Chester - grahamc2: Division of Labour, 50% share: text processing, LDA, t-SNE coding, documentation, voiceover
